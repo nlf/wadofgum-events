@@ -24,6 +24,9 @@
     "lab": "^6.2.0",
     "wadofgum": "^4.0.0"
   },
+  "peerDependencies": {
+    "wadofgum": "^4.0.0"
+  },
   "dependencies": {
     "spit": "^3.0.0"
   }

@@ -1,0 +1,30 @@
+{
+  "name": "wadofgum-events",
+  "version": "1.0.0",
+  "description": "An event emitter mixin for wadofgum",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "lab -a code -t 100 -L"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nlf/wadofgum-events.git"
+  },
+  "keywords": [
+    "wadofgum"
+  ],
+  "author": "Nathan LaFreniere <quitlahok@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nlf/wadofgum-events/issues"
+  },
+  "homepage": "https://github.com/nlf/wadofgum-events#readme",
+  "devDependencies": {
+    "code": "^1.5.0",
+    "lab": "^6.2.0",
+    "wadofgum": "^4.0.0"
+  },
+  "dependencies": {
+    "spit": "^3.0.0"
+  }
+}

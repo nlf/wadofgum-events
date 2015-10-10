@@ -1,6 +1,6 @@
 {
   "name": "wadofgum-events",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An event emitter mixin for wadofgum",
   "main": "lib/index.js",
   "scripts": {
